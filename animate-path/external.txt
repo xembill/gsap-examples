@@ -1,0 +1,4 @@
+https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/gsap-latest-beta.min.js
+https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/ScrollTrigger.min.js
+https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/DrawSVGPlugin3.min.js
+https://cdnjs.cloudflare.com/ajax/libs/gsap/3.2.6/MotionPathPlugin.min.js

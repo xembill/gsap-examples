@@ -1,0 +1,8 @@
+<link href='//fonts.googleapis.com/css?family=Signika+Negative:300,400,600' rel='stylesheet' type='text/css'>
+
+https://codepen.io/GreenSock/pen/7ba936b34824fefdccfe2c6d9f0b740b.css
+https://codepen.io/GreenSock/pen/xxmzBrw.css
+
+https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/gsap-latest-beta.min.js?r=5426
+https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/ScrollTrigger.min.js
+https://codepen.io/GreenSock/pen/7ba936b34824fefdccfe2c6d9f0b740b.js

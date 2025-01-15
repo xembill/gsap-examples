@@ -1,0 +1,2 @@
+https://unpkg.co/gsap@3/dist/gsap.min.js
+https://unpkg.com/gsap@3/dist/ScrollTrigger.min.js
